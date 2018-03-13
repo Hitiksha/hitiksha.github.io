@@ -3,16 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+![dfcgvhbj](https://user-images.githubusercontent.com/36836452/37323901-74fc9870-26ac-11e8-893f-19d2ef3e810f.jpg)
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+A metaphor of the word clutz, finally got into to field of design. A few months into the course and realised it was not what I expected. This blog is a preview of the roller coaster journey that i will go though while studying Humanising Technology. All ideas and suggestions are welcome as they will be extremely helpful. just leave a comment below.
+Thanks and Regards,
+Hitiksha.
