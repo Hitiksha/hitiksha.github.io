@@ -1,13 +1,22 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
+title:  "Catfishing"
+comments: true
+date:   2018-03-24 2:50 +0530
+categories: jekyll update
 ---
-![dfcgvhbj](https://user-images.githubusercontent.com/36836452/37323901-74fc9870-26ac-11e8-893f-19d2ef3e810f.jpg)
+Catfishing is a type of deceptive activity where a person creates a sock puppet social networking presence, or fake identity on a social network account, for nefarious purposes.
+Below i have illustrated two posters for two different user groups.<br/>
+The first poster is for the victims of catfishing.<br/>
+the second poster is for the people who catfish.<br/>
+<br/>
+<br/>
+The first poster.
+![a005_hitiksha_editorial illustrator-01](https://user-images.githubusercontent.com/36836452/37863095-409b1e3c-2f7e-11e8-8012-124f35a317ee.jpg)
 
-A metaphor of the word clutz, studying in the field of design. This blog is a preview of the roller coaster that I go through while studying Humanising Technology (name of the course). All ideas and suggestions are welcome as they will be extremely helpful. Just leave a comment below.<br/>
->Thanks and Regards,<br/>
-Hitiksha.<br/>
+The second poster.
+![a005_hitiksha_editorial illustrator2-01](https://user-images.githubusercontent.com/36836452/37863103-6cd09a72-2f7e-11e8-9615-65c6eeeb334a.jpg)
+
 
 {% if page.comments %}
 
