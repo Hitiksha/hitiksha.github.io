@@ -6,7 +6,7 @@ date:   2018-03-24 2:50 +0530
 categories: jekyll update
 ---
 
-Through photography I have learned how just a device can help you see the same things in a different perspective. Photography is not only about creating memories but also about capturing the moment. It is not about only capturing the aesthetics but about also capturing the essence.
+Through photography I have learned how just a device can help you see the same things in a different perspective. Photography is not only about creating memories but also about capturing the moment. It is not only about capturing the aesthetics but also about capturing the essence.
 Below are some of the pictures shot by me at Dr. Bhau Daji Lad Museum and Kala Ghoda.
 
 ![pho_ass1_a005_07](https://user-images.githubusercontent.com/36836452/37862123-e61aca94-2f6d-11e8-8966-54cd92be0268.jpg) <br/>
