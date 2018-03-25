@@ -8,7 +8,7 @@ categories: jekyll update
 Catfishing is a type of deceptive activity where a person creates a sock puppet social networking presence, or fake identity on a social network account, for nefarious purposes.
 Below i have illustrated two posters for two different user groups.<br/>
 The first poster is for the victims of catfishing.<br/>
-the second poster is for the people who catfish.<br/>
+The second poster is for the people who catfish.<br/>
 <br/>
 <br/>
 The first poster.

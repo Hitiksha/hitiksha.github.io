@@ -21,10 +21,12 @@ Step 3: Check if it is working
 ![new edit-page-001](https://user-images.githubusercontent.com/36836452/37862677-ffd03f9c-2f76-11e8-9b5a-9f659c39ed65.jpg)
 
 Step 4: Put it in the right context to make it look real.<br/>
-And Voilà!
+        And Voilà!
 
 ![img_5185](https://user-images.githubusercontent.com/36836452/37862942-8e2f2394-2f7b-11e8-8254-72874d32bfdf.JPG)
+
 ![img_5194](https://user-images.githubusercontent.com/36836452/37862944-8e7cc37e-2f7b-11e8-8d52-9e7a29773bb3.JPG)
+
 ![img_5180](https://user-images.githubusercontent.com/36836452/37862943-8e561b16-2f7b-11e8-819e-36167e8fe991.JPG)
 
 
